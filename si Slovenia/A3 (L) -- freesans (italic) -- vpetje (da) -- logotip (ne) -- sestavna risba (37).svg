@@ -1,0 +1,2765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="A3 (L) -- freesans (italic) -- vpetje (da) -- logotip (ne) -- sestavna risba (37).svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="1394.4531"
+     inkscape:cy="116.38382"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.39999999, 0.19999998999999999, 0.10000002000000000, 0.19999998999999999;stroke-dashoffset:3.43937016;stroke-opacity:1"
+     id="rect2853"
+     width="420"
+     height="297"
+     x="0"
+     y="6.0336943e-06" />
+  <rect
+     style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.7502178;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect339"
+     width="118.44257"
+     height="4.7605228"
+     x="293.63818"
+     y="58.891239"
+     ry="0" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2498145;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect37"
+     width="397.25021"
+     height="291.75018"
+     x="20.124907"
+     y="2.6249201" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path1699"
+     d="m 126.40198,288.7859 -1.40198,-1e-5 0.70099,-1.18535 z"
+     style="fill:#020000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.7502178;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3230"
+     width="118.44257"
+     height="11.973673"
+     x="293.64096"
+     y="241.37366"
+     ry="0" />
+  <rect
+     y="7.875"
+     x="25.375"
+     height="281.25"
+     width="386.75"
+     id="rect862"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 25.121194,7.6212077 20.124906,2.6249201"
+     id="path864"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 412.375,7.625 5.00012,-5.0000799"
+     id="path866"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 412.375,289.375 5.00012,5.0001"
+     id="path868"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.125,289.375 -5.000094,5.0001"
+     id="path870"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 53.25,2.6079875 V 7.6079848"
+     id="path872"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path874"
+     d="M 384.5,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path878"
+     d="M 351.37502,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 318.25002,2.6079875 V 7.6079848"
+     id="path880"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path882"
+     d="M 285.12499,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 252.00001,2.6079875 V 7.6079848"
+     id="path884"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path886"
+     d="M 218.87501,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 185.74999,2.6079875 V 7.6079848"
+     id="path888"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path890"
+     d="M 152.62501,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 119.49999,2.6079875 V 7.6079848"
+     id="path892"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path894"
+     d="M 86.374997,2.6079875 V 7.6079848"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="36.937576"
+     y="6.2229095"
+     id="text920"><tspan
+       sodipodi:role="line"
+       id="tspan918"
+       x="36.937576"
+       y="6.2229095"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">1</tspan></text>
+  <text
+     id="text924"
+     y="6.223"
+     x="401.31256"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="401.31256"
+       id="tspan922"
+       sodipodi:role="line">12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="368.18756"
+     y="6.223"
+     id="text928"><tspan
+       sodipodi:role="line"
+       id="tspan926"
+       x="368.18756"
+       y="6.223"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">11</tspan></text>
+  <text
+     id="text932"
+     y="6.223"
+     x="335.06256"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="335.06256"
+       id="tspan930"
+       sodipodi:role="line">10</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="301.93756"
+     y="6.223"
+     id="text936"><tspan
+       sodipodi:role="line"
+       id="tspan934"
+       x="301.93756"
+       y="6.223"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">9</tspan></text>
+  <text
+     id="text940"
+     y="6.223"
+     x="268.81256"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="268.81256"
+       id="tspan938"
+       sodipodi:role="line">8</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="235.68756"
+     y="6.223"
+     id="text944"><tspan
+       sodipodi:role="line"
+       id="tspan942"
+       x="235.68756"
+       y="6.223"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">7</tspan></text>
+  <text
+     id="text948"
+     y="6.223"
+     x="202.56258"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="202.56258"
+       id="tspan946"
+       sodipodi:role="line">6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="169.43759"
+     y="6.223"
+     id="text952"><tspan
+       sodipodi:role="line"
+       id="tspan950"
+       x="169.43759"
+       y="6.223"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">5</tspan></text>
+  <text
+     id="text956"
+     y="6.223"
+     x="136.31256"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="136.31256"
+       id="tspan954"
+       sodipodi:role="line">4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="103.18756"
+     y="6.223"
+     id="text960"><tspan
+       sodipodi:role="line"
+       id="tspan958"
+       x="103.18756"
+       y="6.223"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">3</tspan></text>
+  <text
+     id="text964"
+     y="6.223"
+     x="70.062584"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="6.223"
+       x="70.062584"
+       id="tspan962"
+       sodipodi:role="line">2</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1018"
+     d="m 53.25,289.36701 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 384.5,289.36701 v 5"
+     id="path1020"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 351.37502,289.36701 v 5"
+     id="path1022"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1024"
+     d="m 318.25002,289.36701 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 285.12499,289.36701 v 5"
+     id="path1026"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1028"
+     d="m 252.00001,289.36701 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 218.87501,289.36701 v 5"
+     id="path1030"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1032"
+     d="m 185.74999,289.36701 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 152.62501,289.36701 v 5"
+     id="path1034"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1036"
+     d="m 119.49999,289.36701 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 86.374997,289.36701 v 5"
+     id="path1038"
+     inkscape:connector-curvature="0" />
+  <text
+     id="text1042"
+     y="292.98209"
+     x="36.937576"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98209"
+       x="36.937576"
+       id="tspan1040"
+       sodipodi:role="line">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="401.31256"
+     y="292.98218"
+     id="text1046"><tspan
+       sodipodi:role="line"
+       id="tspan1044"
+       x="401.31256"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">12</tspan></text>
+  <text
+     id="text1050"
+     y="292.98218"
+     x="368.18756"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98218"
+       x="368.18756"
+       id="tspan1048"
+       sodipodi:role="line">11</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="335.06256"
+     y="292.98218"
+     id="text1054"><tspan
+       sodipodi:role="line"
+       id="tspan1052"
+       x="335.06256"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">10</tspan></text>
+  <text
+     id="text1058"
+     y="292.98218"
+     x="301.93756"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98218"
+       x="301.93756"
+       id="tspan1056"
+       sodipodi:role="line">9</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="268.81256"
+     y="292.98218"
+     id="text1062"><tspan
+       sodipodi:role="line"
+       id="tspan1060"
+       x="268.81256"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">8</tspan></text>
+  <text
+     id="text1066"
+     y="292.98218"
+     x="235.68756"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98218"
+       x="235.68756"
+       id="tspan1064"
+       sodipodi:role="line">7</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="202.56258"
+     y="292.98218"
+     id="text1070"><tspan
+       sodipodi:role="line"
+       id="tspan1068"
+       x="202.56258"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">6</tspan></text>
+  <text
+     id="text1074"
+     y="292.98218"
+     x="169.43759"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98218"
+       x="169.43759"
+       id="tspan1072"
+       sodipodi:role="line">5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="136.31256"
+     y="292.98218"
+     id="text1078"><tspan
+       sodipodi:role="line"
+       id="tspan1076"
+       x="136.31256"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">4</tspan></text>
+  <text
+     id="text1082"
+     y="292.98218"
+     x="103.18756"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="292.98218"
+       x="103.18756"
+       id="tspan1080"
+       sodipodi:role="line">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="70.062584"
+     y="292.98218"
+     id="text1086"><tspan
+       sodipodi:role="line"
+       id="tspan1084"
+       x="70.062584"
+       y="292.98218"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">2</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1088"
+     d="m 25.115958,34.819444 h -5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.115958,261.93056 h -5"
+     id="path1090"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1092"
+     d="m 25.115958,229.48611 h -5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.115958,197.04166 h -5"
+     id="path1094"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1096"
+     d="m 25.115958,164.59723 h -5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.115958,132.15277 h -5"
+     id="path1098"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1100"
+     d="m 25.115958,99.708323 h -5"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.115958,67.263888 h -5"
+     id="path1102"
+     inkscape:connector-curvature="0" />
+  <text
+     id="text1110"
+     y="19.780556"
+     x="22.517822"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="19.780556"
+       x="22.517822"
+       id="tspan1108"
+       sodipodi:role="line">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="22.517822"
+     y="279.33612"
+     id="text1114"><tspan
+       sodipodi:role="line"
+       id="tspan1112"
+       x="22.517822"
+       y="279.33612"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">I</tspan></text>
+  <text
+     id="text1118"
+     y="246.89165"
+     x="22.517822"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="246.89165"
+       x="22.517822"
+       id="tspan1116"
+       sodipodi:role="line">H</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="22.517822"
+     y="214.4472"
+     id="text1122"><tspan
+       sodipodi:role="line"
+       id="tspan1120"
+       x="22.517822"
+       y="214.4472"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">G</tspan></text>
+  <text
+     id="text1126"
+     y="182.00276"
+     x="22.517822"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="182.00276"
+       x="22.517822"
+       id="tspan1124"
+       sodipodi:role="line">F</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="22.517822"
+     y="149.5583"
+     id="text1130"><tspan
+       sodipodi:role="line"
+       id="tspan1128"
+       x="22.517822"
+       y="149.5583"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">E</tspan></text>
+  <text
+     id="text1134"
+     y="117.11388"
+     x="22.517822"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="117.11388"
+       x="22.517822"
+       id="tspan1132"
+       sodipodi:role="line">D</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="22.517822"
+     y="84.669441"
+     id="text1138"><tspan
+       sodipodi:role="line"
+       id="tspan1136"
+       x="22.517822"
+       y="84.669441"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">C</tspan></text>
+  <text
+     id="text1142"
+     y="52.224998"
+     x="22.517822"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="52.224998"
+       x="22.517822"
+       id="tspan1140"
+       sodipodi:role="line">B</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 417.36899,34.819444 h -5.00001"
+     id="path1144"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1146"
+     d="m 417.36899,261.93056 h -5.00001"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 417.36899,229.48611 h -5.00001"
+     id="path1148"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1150"
+     d="m 417.36899,197.04166 h -5.00001"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 417.36899,164.59723 h -5.00001"
+     id="path1152"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1154"
+     d="m 417.36899,132.15277 h -5.00001"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 417.36899,99.708323 h -5.00001"
+     id="path1156"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1158"
+     d="m 417.36899,67.263888 h -5.00001"
+     style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="414.83661"
+     y="19.780556"
+     id="text1162"><tspan
+       sodipodi:role="line"
+       id="tspan1160"
+       x="414.83661"
+       y="19.780556"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">A</tspan></text>
+  <text
+     id="text1166"
+     y="279.33612"
+     x="414.83661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="279.33612"
+       x="414.83661"
+       id="tspan1164"
+       sodipodi:role="line">I</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="414.83661"
+     y="246.89165"
+     id="text1170"><tspan
+       sodipodi:role="line"
+       id="tspan1168"
+       x="414.83661"
+       y="246.89165"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">H</tspan></text>
+  <text
+     id="text1174"
+     y="214.4472"
+     x="414.83661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="214.4472"
+       x="414.83661"
+       id="tspan1172"
+       sodipodi:role="line">G</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="414.83661"
+     y="182.00276"
+     id="text1178"><tspan
+       sodipodi:role="line"
+       id="tspan1176"
+       x="414.83661"
+       y="182.00276"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">F</tspan></text>
+  <text
+     id="text1182"
+     y="149.62552"
+     x="414.83939"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="149.62552"
+       x="414.83939"
+       id="tspan1180"
+       sodipodi:role="line">E</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="414.83939"
+     y="117.18108"
+     id="text1186"><tspan
+       sodipodi:role="line"
+       id="tspan1184"
+       x="414.83939"
+       y="117.18108"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">D</tspan></text>
+  <text
+     id="text1190"
+     y="84.736649"
+     x="414.83939"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+       y="84.736649"
+       x="414.83939"
+       id="tspan1188"
+       sodipodi:role="line">C</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="414.83661"
+     y="52.224998"
+     id="text1194"><tspan
+       sodipodi:role="line"
+       id="tspan1192"
+       x="414.83661"
+       y="52.224998"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332">B</tspan></text>
+  <path
+     style="fill:#020000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 125,8.2355485 1.40198,-1e-6 -0.70099,1.1853524 z"
+     id="path1697"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#020000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 231.40198,288.7859 -1.40198,-1e-5 0.70099,-1.18535 z"
+     id="path1701"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path1703"
+     d="m 230,8.2355485 1.40198,-1e-6 -0.70099,1.1853524 z"
+     style="fill:#020000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 218.87501,7.6080027 V 12.608"
+     id="path2037"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2039"
+     d="m 218.87501,284.367 v 5"
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 30.116,148.375 h -5"
+     id="path2041"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path204"
+     d="M 412.0628,238.16658 H 293.64095 l 3e-5,-179.208141 h 118.43629"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 314.3526,148.69833 v 89.64048"
+     id="path210"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 335.10265,148.53668 0,89.60113"
+     id="path212"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path214"
+     d="M 293.62525,233.44332 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,228.72648 H 412.35521"
+     id="path216"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path218"
+     d="M 293.62525,224.00964 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,219.2928 H 412.35521"
+     id="path220"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path222"
+     d="M 293.62525,214.57596 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,209.85912 H 412.35521"
+     id="path224"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path226"
+     d="M 293.62525,205.14228 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,200.42544 H 412.35521"
+     id="path228"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path230"
+     d="M 293.62525,195.7086 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,190.99177 H 412.35521"
+     id="path232"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path234"
+     d="M 293.62525,186.27493 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,181.55808 H 412.35521"
+     id="path236"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path238"
+     d="M 293.62525,176.84125 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,172.1244 H 412.35521"
+     id="path240"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path242"
+     d="M 293.62525,167.40757 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,162.69072 H 412.35521"
+     id="path244"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path246"
+     d="M 293.62525,157.97389 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,153.25705 H 412.35521"
+     id="path248"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     freecad:editable="kosovnica_20_naslov_risbe"
+     id="text1065"
+     y="156.87311"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="156.87311"
+       x="410.61328"
+       id="tspan1063"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="161.58997"
+     id="text1069"
+     freecad:editable="kosovnica_21_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1067"
+       x="410.61328"
+       y="161.58997"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_22_naslov_risbe"
+     id="text1073"
+     y="166.30681"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="166.30681"
+       x="410.61328"
+       id="tspan1071"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="171.02364"
+     id="text1077"
+     freecad:editable="kosovnica_23_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1075"
+       x="410.61328"
+       y="171.02364"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_24_naslov_risbe"
+     id="text1081"
+     y="175.74048"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="175.74048"
+       x="410.61328"
+       id="tspan1079"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="180.45732"
+     id="text1085"
+     freecad:editable="kosovnica_25_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1083"
+       x="410.61328"
+       y="180.45732"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_26_naslov_risbe"
+     id="text1089"
+     y="185.17416"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="185.17416"
+       x="410.61328"
+       id="tspan1087"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="189.89099"
+     id="text1093"
+     freecad:editable="kosovnica_27_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1091"
+       x="410.61328"
+       y="189.89099"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_28_naslov_risbe"
+     id="text1097"
+     y="194.60785"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="194.60785"
+       x="410.61328"
+       id="tspan1095"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="199.32468"
+     id="text1101"
+     freecad:editable="kosovnica_29_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1099"
+       x="410.61328"
+       y="199.32468"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_30_naslov_risbe"
+     id="text1105"
+     y="204.04152"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="204.04152"
+       x="410.61328"
+       id="tspan1103"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="208.75835"
+     id="text1109"
+     freecad:editable="kosovnica_31_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1107"
+       x="410.61328"
+       y="208.75835"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_32_naslov_risbe"
+     id="text1113"
+     y="213.4752"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="213.4752"
+       x="410.61328"
+       id="tspan1111"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="218.19203"
+     id="text1117"
+     freecad:editable="kosovnica_33_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1115"
+       x="410.61328"
+       y="218.19203"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_34_naslov_risbe"
+     id="text1121"
+     y="222.90887"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="222.90887"
+       x="410.61328"
+       id="tspan1119"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="227.62572"
+     id="text1125"
+     freecad:editable="kosovnica_35_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1123"
+       x="410.61328"
+       y="227.62572"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_36_naslov_risbe"
+     id="text1129"
+     y="232.34256"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="232.34256"
+       x="410.61328"
+       id="tspan1127"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="237.0594"
+     id="text1133"
+     freecad:editable="kosovnica_37_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1131"
+       x="410.61328"
+       y="237.0594"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="156.87311"
+     id="text1157"
+     freecad:editable="kosovnica_20_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1155"
+       x="333.78387"
+       y="156.87311"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_21_st_kosov"
+     id="text1161"
+     y="161.58997"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="161.58997"
+       x="333.78387"
+       id="tspan1159"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="166.30681"
+     id="text1165"
+     freecad:editable="kosovnica_22_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1163"
+       x="333.78387"
+       y="166.30681"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_23_st_kosov"
+     id="text1169"
+     y="171.02364"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="171.02364"
+       x="333.78387"
+       id="tspan1167"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="175.74048"
+     id="text1173"
+     freecad:editable="kosovnica_24_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1171"
+       x="333.78387"
+       y="175.74048"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_25_st_kosov"
+     id="text1177"
+     y="180.45732"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="180.45732"
+       x="333.78387"
+       id="tspan1175"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="185.17416"
+     id="text1181"
+     freecad:editable="kosovnica_26_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1179"
+       x="333.78387"
+       y="185.17416"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_27_st_kosov"
+     id="text1185"
+     y="189.89099"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="189.89099"
+       x="333.78387"
+       id="tspan1183"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="194.60785"
+     id="text1189"
+     freecad:editable="kosovnica_28_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1187"
+       x="333.78387"
+       y="194.60785"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_29_st_kosov"
+     id="text1193"
+     y="199.32468"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="199.32468"
+       x="333.78387"
+       id="tspan1191"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="204.04152"
+     id="text1197"
+     freecad:editable="kosovnica_30_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1195"
+       x="333.78387"
+       y="204.04152"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_31_st_kosov"
+     id="text1201"
+     y="208.75835"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="208.75835"
+       x="333.78387"
+       id="tspan1199"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="213.4752"
+     id="text1205"
+     freecad:editable="kosovnica_32_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1203"
+       x="333.78387"
+       y="213.4752"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_33_st_kosov"
+     id="text1209"
+     y="218.19203"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="218.19203"
+       x="333.78387"
+       id="tspan1207"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="222.90887"
+     id="text1213"
+     freecad:editable="kosovnica_34_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1211"
+       x="333.78387"
+       y="222.90887"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_35_st_kosov"
+     id="text1217"
+     y="227.62572"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="227.62572"
+       x="333.78387"
+       id="tspan1215"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="232.34256"
+     id="text1221"
+     freecad:editable="kosovnica_36_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan1219"
+       x="333.78387"
+       y="232.34256"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_37_st_kosov"
+     id="text1225"
+     y="237.0594"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="237.0594"
+       x="333.78387"
+       id="tspan1223"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_20_st_risbe"
+     id="text1301"
+     y="156.87311"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="156.87311"
+       x="313.02661"
+       id="tspan1299"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="161.58997"
+     id="text1305"
+     freecad:editable="kosovnica_21_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1303"
+       x="313.02661"
+       y="161.58997"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_22_st_risbe"
+     id="text1309"
+     y="166.30681"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="166.30681"
+       x="313.02661"
+       id="tspan1307"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="171.02364"
+     id="text1313"
+     freecad:editable="kosovnica_23_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1311"
+       x="313.02661"
+       y="171.02364"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_24_st_risbe"
+     id="text1317"
+     y="175.74048"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="175.74048"
+       x="313.02661"
+       id="tspan1315"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="180.45732"
+     id="text1321"
+     freecad:editable="kosovnica_25_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1319"
+       x="313.02661"
+       y="180.45732"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_26_st_risbe"
+     id="text1325"
+     y="185.17416"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="185.17416"
+       x="313.02661"
+       id="tspan1323"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="189.89099"
+     id="text1329"
+     freecad:editable="kosovnica_27_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1327"
+       x="313.02661"
+       y="189.89099"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_28_st_risbe"
+     id="text1333"
+     y="194.60785"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="194.60785"
+       x="313.02661"
+       id="tspan1331"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="199.32468"
+     id="text1337"
+     freecad:editable="kosovnica_29_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1335"
+       x="313.02661"
+       y="199.32468"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_30_st_risbe"
+     id="text1341"
+     y="204.04152"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="204.04152"
+       x="313.02661"
+       id="tspan1339"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="208.75835"
+     id="text1345"
+     freecad:editable="kosovnica_31_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1343"
+       x="313.02661"
+       y="208.75835"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_32_st_risbe"
+     id="text1349"
+     y="213.4752"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="213.4752"
+       x="313.02661"
+       id="tspan1347"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="218.19203"
+     id="text1353"
+     freecad:editable="kosovnica_33_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1351"
+       x="313.02661"
+       y="218.19203"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_34_st_risbe"
+     id="text1357"
+     y="222.90887"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="222.90887"
+       x="313.02661"
+       id="tspan1355"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="312.65244"
+     y="227.43863"
+     id="text1361"
+     freecad:editable="kosovnica_35_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1359"
+       x="312.65244"
+       y="227.43863"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_36_st_risbe"
+     id="text1365"
+     y="232.34256"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="232.34256"
+       x="313.02661"
+       id="tspan1363"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="237.0594"
+     id="text1369"
+     freecad:editable="kosovnica_37_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan1367"
+       x="313.02661"
+       y="237.0594"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path343"
+     d="M 314.3526,59.094269 V 148.73473"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path345"
+     d="M 335.10265,58.932619 V 148.53373"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,143.83924 H 412.35521"
+     id="path347"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path349"
+     d="M 293.62525,139.1224 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,134.40556 H 412.35521"
+     id="path351"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path353"
+     d="M 293.62525,129.68872 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,124.97188 H 412.35521"
+     id="path355"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path357"
+     d="M 293.62525,120.25504 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,115.5382 H 412.35521"
+     id="path359"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path361"
+     d="M 293.62525,110.82136 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,106.10452 H 412.35521"
+     id="path363"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path365"
+     d="M 293.62525,101.38769 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,96.670848 H 412.35521"
+     id="path367"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path369"
+     d="M 293.62525,91.954001 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,87.237174 H 412.35521"
+     id="path371"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path373"
+     d="M 293.62525,82.520327 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,77.8035 H 412.35521"
+     id="path375"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path377"
+     d="M 293.62525,73.086653 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62525,68.369826 H 412.35521"
+     id="path379"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path381"
+     d="M 293.62525,63.652986 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="67.269104"
+     id="text385"
+     freecad:editable="kosovnica_01_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan383"
+       x="410.61328"
+       y="67.269104"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_02_naslov_risbe"
+     id="text389"
+     y="71.985931"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="71.985931"
+       x="410.61328"
+       id="tspan387"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="76.702766"
+     id="text393"
+     freecad:editable="kosovnica_03_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan391"
+       x="410.61328"
+       y="76.702766"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_04_naslov_risbe"
+     id="text397"
+     y="81.419586"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="81.419586"
+       x="410.61328"
+       id="tspan395"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="86.136414"
+     id="text401"
+     freecad:editable="kosovnica_05_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan399"
+       x="410.61328"
+       y="86.136414"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_06_naslov_risbe"
+     id="text405"
+     y="90.853264"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="90.853264"
+       x="410.61328"
+       id="tspan403"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="95.570107"
+     id="text409"
+     freecad:editable="kosovnica_07_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan407"
+       x="410.61328"
+       y="95.570107"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_08_naslov_risbe"
+     id="text413"
+     y="100.28692"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="100.28692"
+       x="410.61328"
+       id="tspan411"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="105.00378"
+     id="text417"
+     freecad:editable="kosovnica_09_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan415"
+       x="410.61328"
+       y="105.00378"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_10_naslov_risbe"
+     id="text421"
+     y="109.72058"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="109.72058"
+       x="410.61328"
+       id="tspan419"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="114.43745"
+     id="text425"
+     freecad:editable="kosovnica_11_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan423"
+       x="410.61328"
+       y="114.43745"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_12_naslov_risbe"
+     id="text429"
+     y="119.15425"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="119.15425"
+       x="410.61328"
+       id="tspan427"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="123.87109"
+     id="text433"
+     freecad:editable="kosovnica_13_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan431"
+       x="410.61328"
+       y="123.87109"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_14_naslov_risbe"
+     id="text437"
+     y="128.58792"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="128.58792"
+       x="410.61328"
+       id="tspan435"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="133.30478"
+     id="text441"
+     freecad:editable="kosovnica_15_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan439"
+       x="410.61328"
+       y="133.30478"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_16_naslov_risbe"
+     id="text445"
+     y="138.02161"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="138.02161"
+       x="410.61328"
+       id="tspan443"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="142.73845"
+     id="text449"
+     freecad:editable="kosovnica_17_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan447"
+       x="410.61328"
+       y="142.73845"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_18_naslov_risbe"
+     id="text453"
+     y="147.45529"
+     x="410.61328"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="147.45529"
+       x="410.61328"
+       id="tspan451"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.71558"
+     y="61.249969"
+     id="text457"><tspan
+       sodipodi:role="line"
+       id="tspan455"
+       x="294.71558"
+       y="61.249969"
+       style="font-size:2.11666656px;stroke-width:0.26458332">št. risbe:</tspan></text>
+  <text
+     id="text461"
+     y="61.190689"
+     x="315.48022"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:2.11666656px;stroke-width:0.26458332"
+       y="61.190689"
+       x="315.48022"
+       id="tspan459"
+       sodipodi:role="line">št. kosov:</tspan></text>
+  <text
+     freecad:editable="kosovnica_01_st_kosov"
+     id="text465"
+     y="67.269104"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="67.269104"
+       x="333.78387"
+       id="tspan463"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="71.985931"
+     id="text469"
+     freecad:editable="kosovnica_02_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan467"
+       x="333.78387"
+       y="71.985931"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_03_st_kosov"
+     id="text473"
+     y="76.702766"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="76.702766"
+       x="333.78387"
+       id="tspan471"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="81.419586"
+     id="text477"
+     freecad:editable="kosovnica_04_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan475"
+       x="333.78387"
+       y="81.419586"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_05_st_kosov"
+     id="text481"
+     y="86.136414"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="86.136414"
+       x="333.78387"
+       id="tspan479"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="90.853264"
+     id="text485"
+     freecad:editable="kosovnica_06_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan483"
+       x="333.78387"
+       y="90.853264"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_07_st_kosov"
+     id="text489"
+     y="95.570107"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="95.570107"
+       x="333.78387"
+       id="tspan487"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="100.28692"
+     id="text493"
+     freecad:editable="kosovnica_08_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan491"
+       x="333.78387"
+       y="100.28692"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_09_st_kosov"
+     id="text497"
+     y="105.00378"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="105.00378"
+       x="333.78387"
+       id="tspan495"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="109.72058"
+     id="text501"
+     freecad:editable="kosovnica_10_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan499"
+       x="333.78387"
+       y="109.72058"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_11_st_kosov"
+     id="text505"
+     y="114.43745"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="114.43745"
+       x="333.78387"
+       id="tspan503"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="119.15425"
+     id="text509"
+     freecad:editable="kosovnica_12_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan507"
+       x="333.78387"
+       y="119.15425"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_13_st_kosov"
+     id="text513"
+     y="123.87109"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="123.87109"
+       x="333.78387"
+       id="tspan511"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="128.58792"
+     id="text517"
+     freecad:editable="kosovnica_14_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan515"
+       x="333.78387"
+       y="128.58792"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_15_st_kosov"
+     id="text521"
+     y="133.30478"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="133.30478"
+       x="333.78387"
+       id="tspan519"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="138.02161"
+     id="text525"
+     freecad:editable="kosovnica_16_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan523"
+       x="333.78387"
+       y="138.02161"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_17_st_kosov"
+     id="text529"
+     y="142.73845"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="142.73845"
+       x="333.78387"
+       id="tspan527"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="333.78387"
+     y="147.45529"
+     id="text533"
+     freecad:editable="kosovnica_18_st_kosov"><tspan
+       sodipodi:role="line"
+       id="tspan531"
+       x="333.78387"
+       y="147.45529"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="67.269104"
+     id="text537"
+     freecad:editable="kosovnica_01_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan535"
+       x="313.02661"
+       y="67.269104"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_02_st_risbe"
+     id="text541"
+     y="71.985931"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="71.985931"
+       x="313.02661"
+       id="tspan539"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="76.702766"
+     id="text545"
+     freecad:editable="kosovnica_03_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan543"
+       x="313.02661"
+       y="76.702766"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_04_st_risbe"
+     id="text549"
+     y="81.419586"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="81.419586"
+       x="313.02661"
+       id="tspan547"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="86.136414"
+     id="text553"
+     freecad:editable="kosovnica_05_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan551"
+       x="313.02661"
+       y="86.136414"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_06_st_risbe"
+     id="text557"
+     y="90.853264"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="90.853264"
+       x="313.02661"
+       id="tspan555"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="95.570107"
+     id="text561"
+     freecad:editable="kosovnica_07_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan559"
+       x="313.02661"
+       y="95.570107"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_08_st_risbe"
+     id="text565"
+     y="100.28692"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="100.28692"
+       x="313.02661"
+       id="tspan563"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="105.00378"
+     id="text569"
+     freecad:editable="kosovnica_09_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan567"
+       x="313.02661"
+       y="105.00378"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_10_st_risbe"
+     id="text573"
+     y="109.72058"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="109.72058"
+       x="313.02661"
+       id="tspan571"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="114.43745"
+     id="text577"
+     freecad:editable="kosovnica_11_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan575"
+       x="313.02661"
+       y="114.43745"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_12_st_risbe"
+     id="text581"
+     y="119.15425"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="119.15425"
+       x="313.02661"
+       id="tspan579"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="123.87109"
+     id="text585"
+     freecad:editable="kosovnica_13_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan583"
+       x="313.02661"
+       y="123.87109"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_14_st_risbe"
+     id="text589"
+     y="128.58792"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="128.58792"
+       x="313.02661"
+       id="tspan587"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="133.30478"
+     id="text593"
+     freecad:editable="kosovnica_15_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan591"
+       x="313.02661"
+       y="133.30478"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_16_st_risbe"
+     id="text597"
+     y="138.02161"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="138.02161"
+       x="313.02661"
+       id="tspan595"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="142.73845"
+     id="text601"
+     freecad:editable="kosovnica_17_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan599"
+       x="313.02661"
+       y="142.73845"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_18_st_risbe"
+     id="text605"
+     y="147.45529"
+     x="313.02661"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="147.45529"
+       x="313.02661"
+       id="tspan603"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="336.64722"
+     y="61.190689"
+     id="text609"><tspan
+       sodipodi:role="line"
+       id="tspan607"
+       x="336.64722"
+       y="61.190689"
+       style="font-size:2.11666656px;stroke-width:0.26458332">naslov risbe:</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path891"
+     d="M 293.62525,148.54814 H 412.35521"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61328"
+     y="152.11067"
+     id="text895"
+     freecad:editable="kosovnica_19_naslov_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan893"
+       x="410.61328"
+       y="152.11067"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="kosovnica_19_st_kosov"
+     id="text899"
+     y="152.11067"
+     x="333.78387"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="152.11067"
+       x="333.78387"
+       id="tspan897"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="313.02661"
+     y="152.11067"
+     id="text903"
+     freecad:editable="kosovnica_19_st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan901"
+       x="313.02661"
+       y="152.11067"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 412.45019,241.41986 H 293.26841"
+     id="path3240"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.64372,289.29511 V 241.43763"
+     id="path3139"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 293.62802,247.37313 H 412.35798"
+     id="path3143"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 293.64097,253.34736 h 118.6619"
+     id="path3145"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 293.64097,265.29581 h 118.7355"
+     id="path3149"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.71835"
+     y="244.08505"
+     id="text3164"><tspan
+       sodipodi:role="line"
+       id="tspan3162"
+       x="294.71835"
+       y="244.08505"
+       style="font-size:2.11666656px;stroke-width:0.26458332">ustanova:</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.87695"
+     y="249.7319"
+     id="text3172"><tspan
+       sodipodi:role="line"
+       id="tspan3170"
+       x="294.87695"
+       y="249.7319"
+       style="font-size:2.11666656px;stroke-width:0.26458332">priimek in ime:</tspan></text>
+  <text
+     id="text3192-4"
+     y="268.09387"
+     x="294.77762"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:2.11666656px;stroke-width:0.26458332"
+       y="268.09387"
+       x="294.77762"
+       sodipodi:role="line"
+       id="tspan3273">št. risbe:</tspan></text>
+  <text
+     id="text3228"
+     y="268.03461"
+     x="315.37289"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:2.11666656px;stroke-width:0.26458332"
+       y="268.03461"
+       x="315.37289"
+       id="tspan3226"
+       sodipodi:role="line">naslov risbe:</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.77762"
+     y="256.17136"
+     id="text3283"><tspan
+       id="tspan3281"
+       sodipodi:role="line"
+       x="294.77762"
+       y="256.17136"
+       style="font-size:2.11666656px;stroke-width:0.26458332">projekt:</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 314.35537,265.62593 v 11.8658"
+     id="path3289"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.61606"
+     y="245.74042"
+     id="text3294"
+     freecad:editable="ustanova"><tspan
+       sodipodi:role="line"
+       id="tspan3292"
+       x="410.61606"
+       y="245.74042"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">Linux coach™</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.42792"
+     y="263.54993"
+     id="text3314"
+     freecad:editable="projekt"><tspan
+       sodipodi:role="line"
+       id="tspan3312"
+       x="410.42792"
+       y="263.54993"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <text
+     freecad:editable="priimek_ime"
+     id="text760"
+     y="251.4839"
+     x="410.61606"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="251.4839"
+       x="410.61606"
+       id="tspan758"
+       sodipodi:role="line">Žiga Lausegger</tspan></text>
+  <text
+     freecad:editable="naslov_risbe"
+     id="text764"
+     y="275.64343"
+     x="410.42792"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="275.64343"
+       x="410.42792"
+       id="tspan762"
+       sodipodi:role="line">/</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2045"
+     d="m 293.64097,277.46672 h 118.7355"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2047"
+     d="m 314.35537,277.49916 v 11.8658"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.8815"
+     y="280.11191"
+     id="text2051"><tspan
+       id="tspan2049"
+       sodipodi:role="line"
+       x="294.8815"
+       y="280.11191"
+       style="font-size:2.11666656px;stroke-width:0.26458332">projekcijski kot:</tspan></text>
+  <line
+     style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:0.4, 0.2, 0.1, 0.2;stroke-dashoffset:0.55000001;stroke-opacity:1"
+     id="line2265"
+     y2="285.55768"
+     x2="312.73846"
+     y1="285.55768"
+     x1="304.80096" />
+  <line
+     style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:0.4, 0.2, 0.1, 0.2;stroke-dashoffset:0.91000003;stroke-opacity:1"
+     id="line2267"
+     y2="287.54202"
+     x2="310.75409"
+     y1="283.5733"
+     x1="310.75409" />
+  <polygon
+     style="fill:none;stroke:#000000;stroke-width:3.77952552;stroke-miterlimit:4;stroke-dasharray:none"
+     id="polygon2271"
+     points="10,90 10,10 90,30 90,70 "
+     transform="matrix(0.03968752,0,0,0.03968752,304.80084,283.5732)" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle2273"
+     cy="285.55768"
+     cx="310.75409"
+     r="0.79375052" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle2275"
+     cy="285.55768"
+     cx="310.75409"
+     r="1.587501" />
+  <text
+     id="text2353"
+     y="280.11191"
+     x="336.05014"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:2.11666656px;stroke-width:0.26458332"
+       y="280.11191"
+       x="336.05014"
+       sodipodi:role="line"
+       id="tspan2351">licenca:</tspan></text>
+  <text
+     id="text2357"
+     y="281.80905"
+     x="294.7861"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:1.41111112px;stroke-width:0.26458332"
+       y="281.80905"
+       x="294.7861"
+       sodipodi:role="line"
+       id="tspan2355">(I. ali III.)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="410.42792"
+     y="287.61606"
+     id="text2361"
+     freecad:editable="kraj_datum_ura"><tspan
+       sodipodi:role="line"
+       id="tspan2359"
+       x="410.42792"
+       y="287.61606"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 335.10592,277.49916 v 11.8658"
+     id="path1007"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="315.37924"
+     y="280.11191"
+     id="text1011"><tspan
+       id="tspan1009"
+       sodipodi:role="line"
+       x="315.37924"
+       y="280.11191"
+       style="font-size:2.11666656px;stroke-width:0.26458332">merilo:</tspan></text>
+  <text
+     freecad:editable="merilo"
+     id="text1015"
+     y="287.61606"
+     x="333.62109"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="287.61606"
+       x="333.62109"
+       id="tspan1013"
+       sodipodi:role="line">/</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="315.3877"
+     y="281.80905"
+     id="text1019"><tspan
+       id="tspan1017"
+       sodipodi:role="line"
+       x="315.3877"
+       y="281.80905"
+       style="font-size:1.41111112px;stroke-width:0.26458332">(narisano:realno)</tspan></text>
+  <text
+     freecad:editable="st_risbe_nadrejene"
+     id="text780"
+     y="275.45181"
+     x="312.98334"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="275.45181"
+       x="312.98334"
+       id="tspan778"
+       sodipodi:role="line">/</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path360"
+     d="M 314.36628,271.55883 H 293.54892"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="294.77765"
+     y="274.04703"
+     id="text364"><tspan
+       id="tspan362"
+       sodipodi:role="line"
+       x="294.77765"
+       y="274.04703"
+       style="font-size:2.11666656px;stroke-width:0.26458332">št. risbe:</tspan></text>
+  <text
+     id="text368"
+     y="275.51373"
+     x="294.78613"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-size:1.41111112px;stroke-width:0.26458332"
+       y="275.51373"
+       x="294.78613"
+       sodipodi:role="line"
+       id="tspan366">(nadrejene)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="312.98334"
+     y="269.76315"
+     id="text372"
+     freecad:editable="st_risbe"><tspan
+       sodipodi:role="line"
+       id="tspan370"
+       x="312.98334"
+       y="269.76315"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332">/</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3459"
+     d="m 335.10111,283.38211 h 77.25687"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="336.05014"
+     y="285.6683"
+     id="text3463"><tspan
+       id="tspan3461"
+       sodipodi:role="line"
+       x="336.05014"
+       y="285.6683"
+       style="font-size:2.11666656px;stroke-width:0.26458332">kraj, datum, ura:</tspan></text>
+  <text
+     freecad:editable="licenca"
+     id="text3467"
+     y="281.9274"
+     x="410.42792"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';text-align:end;text-anchor:end;stroke-width:0.26458332"
+       y="281.9274"
+       x="410.42792"
+       id="tspan3465"
+       sodipodi:role="line">/</tspan></text>
+</svg>
